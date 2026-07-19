@@ -1,0 +1,77 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/back-end-removebg.png",
+      "title": "Backend Development",
+      "description": "Develop scalable backend applications and REST APIs using Python, FastAPI, SQLAlchemy, PostgreSQL, and modern software engineering best practices."
+    },
+    {
+      "id": "2",
+      "src": "./img/data-analysis-removebg.png",
+      "title": "Data Analytics",
+      "description": "Transform raw data into actionable insights through SQL, Python, Power BI, Tableau, and Excel. Experienced in data cleaning, visualization, reporting, and building automated analytics workflows."
+    },
+    {
+      "id": "3",
+      "src": "./img/data-engineering-removebg.png",
+      "title": "Data Engineering",
+      "description": "Design data pipelines and ETL processes that transform and organize data for analysis. Experience with Databricks, Spark, PostgreSQL, and Python-based data workflows."
+    },
+    {
+      "id": "4",
+      "src": "./img/ai-automation-removebg.png",
+      "title": "AI & Automation",
+      "description": "Build intelligent tools and automation workflows using Python and modern AI technologies to streamline repetitive tasks and accelerate development."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "Ahuse",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "App Dashboard",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Easy Rentn",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ]
+}
