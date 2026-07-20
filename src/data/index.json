@@ -28,50 +28,27 @@
   "portfolio": [
     {
       "id": "1",
-      "src": "./img/placeholder-image.png",
-      "title": "Ahuse",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "src": "./img/card-game-home.png",
+      "title": "CardGamePlus",
+      "description": "Built a full-stack collectible card game featuring a custom data-driven gameplay engine, AI opponent, and persistent player progression. The application uses a React frontend with a FastAPI backend, layered architecture, JWT authentication, and runtime object reconstruction to deliver a scalable and extensible gaming experience.",
+      "link": "View In Github",
+      "url": "https://github.com/treyz1999-lgtm/CardGamePlus"
     },
     {
       "id": "2",
-      "src": "./img/placeholder-image-1.png",
-      "title": "App Dashboard",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "src": "./img/NBA-defense.png",
+      "title": "NBA Defense Analysis",
+      "description": "Developed an end-to-end NBA analytics pipeline that automatically collected 20 years of historical data from Basketball Reference using a custom Python web scraper. The data was cleaned and transformed with SQL before being visualized in interactive Tableau dashboards to analyze the relationship between defensive performance and playoff success.",
+      "link": "View In Github",
+      "url": "https://github.com/treyz1999-lgtm/NBA-Defense-Project"
     },
     {
       "id": "3",
-      "src": "./img/placeholder-image-2.png",
-      "title": "Easy Rentn",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
-    }
-  ],
-  "testimonial": [
-    {
-      "id": "1",
-      "count": "5",
-      "src": "./img/avatar-image.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Dianne Russel",
-      "author_designation": "Starbucks"
-    },
-    {
-      "id": "2",
-      "count": "5",
-      "src": "./img/avatar-image-1.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Kristin Watson",
-      "author_designation": "Louis Vuitton"
-    },
-    {
-      "id": "3",
-      "count": "5",
-      "src": "./img/avatar-image-2.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Kathryn Murphy",
-      "author_designation": "McDonald's"
+      "src": "./img/math-plot.png",
+      "title": "Math Engine",
+      "description": "Built a full-stack mathematical computation engine that performs advanced symbolic and numerical calculations across calculus, linear algebra, statistics, geometry, and graphing. The project emphasizes clean software architecture through a modular FastAPI backend, dynamic frontend rendering, and RESTful API design.",
+      "link": "View In Github",
+      "url": "https://github.com/treyz1999-lgtm/Math-Engine"
     }
   ]
 }
